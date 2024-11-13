@@ -22,7 +22,7 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # title of site appears in banner
 title: Visualizing Dowries 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: An exploration of women's property through the Cairo Geniza
+tagline: An exploration of women's property through the Cairo Geniza (10th-13th c.)
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: A digital appendix to Rachel Richman's dissertation on Women's Labor and Property in the Cairo Geniza
@@ -40,8 +40,8 @@ metadata: rr_collectionbuilder_metadata
 # Site/Organization Branding 
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #
-# organization-name: "Princeton Geniza Project"
-# organization-link: https://geniza.princeton.edu
+organization-name: "Princeton Geniza Project"
+organization-link: https://geniza.princeton.edu
 # organization-logo-banner: 
 # organization-logo-nav: 
 
